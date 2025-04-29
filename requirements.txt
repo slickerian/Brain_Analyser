@@ -1,5 +1,7 @@
 streamlit
 streamlit-option-menu
-tensorflow
+firebase-admin
+Pillow
 numpy
-pandas
+tensorflow
+requests
